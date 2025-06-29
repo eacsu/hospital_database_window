@@ -1,0 +1,407 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\database_school\\hospital\\hospital_database_window\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|d:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|solutionrelative:hospital_database_window\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|d:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmpinforecord.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|solutionrelative:hospital_database_window\\frmpinforecord.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|d:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmpinfoedit.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|solutionrelative:hospital_database_window\\frmpinfoedit.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|d:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmpinfoedit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|solutionrelative:hospital_database_window\\frmpinfoedit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|d:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmpinfoedit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|solutionrelative:hospital_database_window\\frmpinfoedit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|d:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\mdiparent1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|solutionrelative:hospital_database_window\\mdiparent1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|d:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmpinforecord.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|solutionrelative:hospital_database_window\\frmpinforecord.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|d:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\mdiparent1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|solutionrelative:hospital_database_window\\mdiparent1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|d:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\mdiparent1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|solutionrelative:hospital_database_window\\mdiparent1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|d:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmpinforecord.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|solutionrelative:hospital_database_window\\frmpinforecord.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|d:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\modulecommon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|solutionrelative:hospital_database_window\\modulecommon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|d:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|solutionrelative:hospital_database_window\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|d:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|solutionrelative:hospital_database_window\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|d:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmmoveofc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|solutionrelative:hospital_database_window\\frmmoveofc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|d:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmmovebed.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|solutionrelative:hospital_database_window\\frmmovebed.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|d:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmmovebed.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|solutionrelative:hospital_database_window\\frmmovebed.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|d:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmmoveofc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|solutionrelative:hospital_database_window\\frmmoveofc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|d:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmprefeerecord.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|solutionrelative:hospital_database_window\\frmprefeerecord.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|d:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmstdfeerecord.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|solutionrelative:hospital_database_window\\frmstdfeerecord.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|d:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmchpw.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|solutionrelative:hospital_database_window\\frmchpw.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|d:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmfeedailyreport.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|solutionrelative:hospital_database_window\\frmfeedailyreport.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|d:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmfeedailyreport.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|solutionrelative:hospital_database_window\\frmfeedailyreport.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|d:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmfeedailyreport.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|solutionrelative:hospital_database_window\\frmfeedailyreport.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|d:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmlcdfeerecord.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{73D28AAB-2BEA-4912-B198-2DA670D72781}|hospital_database_window\\hospital_database_window.vbproj|solutionrelative:hospital_database_window\\frmlcdfeerecord.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\Form1.vb",
+              "RelativeDocumentMoniker": "hospital_database_window\\Form1.vb",
+              "ToolTip": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\Form1.vb",
+              "RelativeToolTip": "hospital_database_window\\Form1.vb",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAcwCgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-07T14:34:22.519Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmPinfoEdit.vb [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmPinfoEdit.vb",
+              "RelativeDocumentMoniker": "hospital_database_window\\frmPinfoEdit.vb",
+              "ToolTip": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmPinfoEdit.vb [\u8BBE\u8BA1]",
+              "RelativeToolTip": "hospital_database_window\\frmPinfoEdit.vb [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-07T15:15:46.579Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmPinfoEdit.vb",
+              "DocumentMoniker": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmPinfoEdit.vb",
+              "RelativeDocumentMoniker": "hospital_database_window\\frmPinfoEdit.vb",
+              "ToolTip": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmPinfoEdit.vb",
+              "RelativeToolTip": "hospital_database_window\\frmPinfoEdit.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-07T15:10:57.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmPinfoEdit.Designer.vb",
+              "DocumentMoniker": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmPinfoEdit.Designer.vb",
+              "RelativeDocumentMoniker": "hospital_database_window\\frmPinfoEdit.Designer.vb",
+              "ToolTip": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmPinfoEdit.Designer.vb",
+              "RelativeToolTip": "hospital_database_window\\frmPinfoEdit.Designer.vb",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAYwIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-07T15:10:49.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPInfoRecord.Designer.vb",
+              "DocumentMoniker": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmPInfoRecord.Designer.vb",
+              "RelativeDocumentMoniker": "hospital_database_window\\frmPInfoRecord.Designer.vb",
+              "ToolTip": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmPInfoRecord.Designer.vb",
+              "RelativeToolTip": "hospital_database_window\\frmPInfoRecord.Designer.vb",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAcwFsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-07T15:11:39.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MDIParent1.vb [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\MDIParent1.vb",
+              "RelativeDocumentMoniker": "hospital_database_window\\MDIParent1.vb",
+              "ToolTip": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\MDIParent1.vb [\u8BBE\u8BA1]",
+              "RelativeToolTip": "hospital_database_window\\MDIParent1.vb [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-07T14:31:14.441Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmPInfoRecord.vb",
+              "DocumentMoniker": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmPInfoRecord.vb",
+              "RelativeDocumentMoniker": "hospital_database_window\\frmPInfoRecord.vb",
+              "ToolTip": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmPInfoRecord.vb",
+              "RelativeToolTip": "hospital_database_window\\frmPInfoRecord.vb",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA0wBUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-07T15:10:31.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MDIParent1.vb",
+              "DocumentMoniker": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\MDIParent1.vb",
+              "RelativeDocumentMoniker": "hospital_database_window\\MDIParent1.vb",
+              "ToolTip": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\MDIParent1.vb",
+              "RelativeToolTip": "hospital_database_window\\MDIParent1.vb",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwDkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-07T14:32:20.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ModuleCommon.vb",
+              "DocumentMoniker": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\ModuleCommon.vb",
+              "RelativeDocumentMoniker": "hospital_database_window\\ModuleCommon.vb",
+              "ToolTip": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\ModuleCommon.vb",
+              "RelativeToolTip": "hospital_database_window\\ModuleCommon.vb",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvwcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-07T13:56:03.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MDIParent1.Designer.vb",
+              "DocumentMoniker": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\MDIParent1.Designer.vb",
+              "RelativeDocumentMoniker": "hospital_database_window\\MDIParent1.Designer.vb",
+              "ToolTip": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\MDIParent1.Designer.vb",
+              "RelativeToolTip": "hospital_database_window\\MDIParent1.Designer.vb",
+              "ViewState": "AgIAABgBAAAAAAAAAAAgwCcBAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-07T14:32:07.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmPInfoRecord.vb [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmPInfoRecord.vb",
+              "RelativeDocumentMoniker": "hospital_database_window\\frmPInfoRecord.vb",
+              "ToolTip": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmPInfoRecord.vb [\u8BBE\u8BA1]",
+              "RelativeToolTip": "hospital_database_window\\frmPInfoRecord.vb [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-07T13:56:06.033Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "hospital_database_window\\Form1.Designer.vb",
+              "ToolTip": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\Form1.Designer.vb",
+              "RelativeToolTip": "hospital_database_window\\Form1.Designer.vb",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAgwHIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-07T14:34:17.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.vb [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\Form1.vb",
+              "RelativeDocumentMoniker": "hospital_database_window\\Form1.vb",
+              "ToolTip": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\Form1.vb [\u8BBE\u8BA1]",
+              "RelativeToolTip": "hospital_database_window\\Form1.vb [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-07T14:31:59.444Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmMoveOfc.vb",
+              "DocumentMoniker": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\FrmMoveOfc.vb",
+              "RelativeDocumentMoniker": "hospital_database_window\\FrmMoveOfc.vb",
+              "ToolTip": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\FrmMoveOfc.vb",
+              "RelativeToolTip": "hospital_database_window\\FrmMoveOfc.vb",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-07T14:12:20.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmMoveBed.vb",
+              "DocumentMoniker": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\FrmMoveBed.vb",
+              "RelativeDocumentMoniker": "hospital_database_window\\FrmMoveBed.vb",
+              "ToolTip": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\FrmMoveBed.vb",
+              "RelativeToolTip": "hospital_database_window\\FrmMoveBed.vb",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-07T14:02:42.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmMoveOfc.vb [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\FrmMoveOfc.vb",
+              "RelativeDocumentMoniker": "hospital_database_window\\FrmMoveOfc.vb",
+              "ToolTip": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\FrmMoveOfc.vb [\u8BBE\u8BA1]",
+              "RelativeToolTip": "hospital_database_window\\FrmMoveOfc.vb [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-07T13:56:13.362Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmMoveBed.vb [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\FrmMoveBed.vb",
+              "RelativeDocumentMoniker": "hospital_database_window\\FrmMoveBed.vb",
+              "ToolTip": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\FrmMoveBed.vb [\u8BBE\u8BA1]",
+              "RelativeToolTip": "hospital_database_window\\FrmMoveBed.vb [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-07T13:56:09.444Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmPreFeeRecord.vb [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmPreFeeRecord.vb",
+              "RelativeDocumentMoniker": "hospital_database_window\\frmPreFeeRecord.vb",
+              "ToolTip": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmPreFeeRecord.vb [\u8BBE\u8BA1]",
+              "RelativeToolTip": "hospital_database_window\\frmPreFeeRecord.vb [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-07T13:56:05.415Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmStdFeeRecord.vb [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmStdFeeRecord.vb",
+              "RelativeDocumentMoniker": "hospital_database_window\\frmStdFeeRecord.vb",
+              "ToolTip": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmStdFeeRecord.vb [\u8BBE\u8BA1]",
+              "RelativeToolTip": "hospital_database_window\\frmStdFeeRecord.vb [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-07T13:55:25.378Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmChPw.vb [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmChPw.vb",
+              "RelativeDocumentMoniker": "hospital_database_window\\frmChPw.vb",
+              "ToolTip": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmChPw.vb [\u8BBE\u8BA1]",
+              "RelativeToolTip": "hospital_database_window\\frmChPw.vb [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-07T13:43:23.039Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmFeeDailyReport.Designer.vb",
+              "DocumentMoniker": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmFeeDailyReport.Designer.vb",
+              "RelativeDocumentMoniker": "hospital_database_window\\frmFeeDailyReport.Designer.vb",
+              "ToolTip": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmFeeDailyReport.Designer.vb",
+              "RelativeToolTip": "hospital_database_window\\frmFeeDailyReport.Designer.vb",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAGoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-07T13:35:11.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmFeeDailyReport.vb",
+              "DocumentMoniker": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmFeeDailyReport.vb",
+              "RelativeDocumentMoniker": "hospital_database_window\\frmFeeDailyReport.vb",
+              "ToolTip": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmFeeDailyReport.vb",
+              "RelativeToolTip": "hospital_database_window\\frmFeeDailyReport.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-07T13:34:57.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmFeeDailyReport.vb [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmFeeDailyReport.vb",
+              "RelativeDocumentMoniker": "hospital_database_window\\frmFeeDailyReport.vb",
+              "ToolTip": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmFeeDailyReport.vb [\u8BBE\u8BA1]",
+              "RelativeToolTip": "hospital_database_window\\frmFeeDailyReport.vb [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-07T13:34:53.487Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmLcdFeeRecord.vb [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmLcdFeeRecord.vb",
+              "RelativeDocumentMoniker": "hospital_database_window\\frmLcdFeeRecord.vb",
+              "ToolTip": "D:\\database_school\\hospital\\hospital_database_window\\hospital_database_window\\frmLcdFeeRecord.vb [\u8BBE\u8BA1]",
+              "RelativeToolTip": "hospital_database_window\\frmLcdFeeRecord.vb [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-07T13:34:50.656Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
